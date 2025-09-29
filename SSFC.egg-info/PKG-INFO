@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SSFC
+Version: 1.2.0a3
+Description-Content-Type: text/markdown
+Provides-Extra: tests
+Provides-Extra: docs
+Provides-Extra: extra
+License-File: LICENSE
