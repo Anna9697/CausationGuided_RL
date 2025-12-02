@@ -5,8 +5,7 @@ This is a tool to synthesize controllers of Cyber-Physical Systems for Real-Time
 It is developed using the stable-baselines3 framework (https://github.com/DLR-RM/stable-baselines3) and a C++ lib no the top of Breach online monitoring tool (https://github.com/decyphir/breach).
 The generated C++ dynamic link library already exists in the current directory (. so files)
 
-The complete and directly runnable virtual machine is available at https://doi.org/10.5281/
-zenodo.16879140.
+The complete and directly runnable virtual machine is available at https://doi.org/10.5281/zenodo.16879140.
 
 ## 1. Prerequisites
 
